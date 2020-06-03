@@ -39,7 +39,7 @@ private  HomeAdapter homeAdapter;
         getSupportActionBar().setDisplayShowTitleEnabled(false);
         setContentView(R.layout.activity_main);
         initView();
-        getHomeData();
+       // getHomeData();
 
     }
 //    @Override
@@ -94,5 +94,6 @@ private  HomeAdapter homeAdapter;
         homeAdapter=new HomeAdapter(MainActivity.this);
 
         activityMainBinding.recycleid.setAdapter(homeAdapter);
+        getHomeData();
     }
 }

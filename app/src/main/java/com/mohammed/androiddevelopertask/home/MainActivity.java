@@ -19,7 +19,7 @@ import java.util.Locale;
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding activityMainBinding;
     private  HomeViewModel homeViewModel;
-private  int page=8;
+private  int page=4;
 private  HomeAdapter homeAdapter;
 
 

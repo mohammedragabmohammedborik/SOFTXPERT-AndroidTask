@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidDeveloperTask</string>
+    <string name="status">status</string>
+    <string name="brand">Brand</string>
 </resources>

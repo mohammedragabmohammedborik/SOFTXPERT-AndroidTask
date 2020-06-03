@@ -9,7 +9,7 @@ import androidx.annotation.IntRange;
 
 
 public class UtilityHelper {
-    public static final  String URLSERVER="http://demo1286023.mockable.io/";
+    public static final  String URLSERVER="https://demo1286023.mockable.io/";
 
 
     @IntRange(from = 0, to = 2)

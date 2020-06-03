@@ -10,6 +10,7 @@
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:theme="@style/ToolbarTheme"
+        android:background="@color/colorPrimary"
         android:layout_height="64dp">
         <RelativeLayout
             android:layout_width="match_parent"
@@ -23,7 +24,7 @@
                 android:textColor="@color/colorwhight"
                 android:textSize="24sp"
                 android:visibility="visible"
-                android:text="Profile"
+                android:text="Home"
                 android:gravity="center"
                 android:layout_marginStart="@dimen/dimen8"
                 android:layout_centerVertical="true"/>

@@ -40,6 +40,8 @@
         android:layout_height="match_parent"
         android:id="@+id/recycleid"
         android:layout_below="@+id/toolbar"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:spanCount="2"
         />
 
 

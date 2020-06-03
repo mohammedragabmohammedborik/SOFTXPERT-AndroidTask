@@ -44,7 +44,6 @@ private  HomeAdapter homeAdapter;
     }
 //    @Override
 //    public void onRefresh() {
-//        getBrands();
 //    }
 
     public void getHomeData() {
